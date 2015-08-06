@@ -1,0 +1,5 @@
+einfach mal ein neues File
+
+Hinzugefügt im lokalen Repo und dann perr Push auf gitHub
+
+Zeilen 3 und 5 dann mit edit hier auf gitHub selber mit dem Editor angelegt.
